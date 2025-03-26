@@ -1,12 +1,12 @@
 /*
-EECS 348 Programming Assignment 1
+EECS 348 Programming Assignment 5
 This program is a CEO email prioritization program that assigns a priority number to each email sender and filters the emails in the order by which they should be read
 The input for this program will be any txt file. For the purpose of this assignment, the input will be Assignment1_Test_File.txt
 The output for this program will be the emails 
 Collaborator: None
-I used chatgpt to assist me in the a part of the maxheap (I specify when) implementation because I am still a freshman and am doing EECS 268 as a corequisite so I am not as familiat with it.
 Nischay Rawal
-Creation Date: 01/28/2025
+Creation Date: 03/23/2025
+Last Edited Date: 03/25/2025
 */
 
 #include <iostream>  // This line includes the standard input-output stream library
